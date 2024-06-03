@@ -8,5 +8,6 @@
         public string Place { get; set; }
         public DateTime StartDateTime { get; set; }
         public string EventType { get; set; }
+        public byte[] Image { get; set; }
     }
 }
